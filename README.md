@@ -1,1 +1,1 @@
-# Functions-In-JS
+# This repo contains some Functions in JavaScript.
